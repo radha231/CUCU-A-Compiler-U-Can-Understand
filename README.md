@@ -10,24 +10,24 @@ For Running the Program, execute the following commands sequentially:
 4. ./cucu
 
 
-cucu.l
-A. This file meticulously tokenizes variable names, keywords, special characters, and numbers.
-B. All tokens are logged into lexer.txt, with each token name printed for clarity.
+cucu.l:
+1. This file meticulously tokenizes variable names, keywords, special characters, and numbers.
+2. All tokens are logged into lexer.txt, with each token name printed for clarity.
 
 
-cucu.y
-A. Holds the BNF grammar rules necessary for the compiler's operation.
-B. Parsing details are recorded in parser.txt, including various steps and statement types encountered.
-C. If a syntax error arises during parsing, a clear "Syntax Error" message is displayed in the terminal.
+cucu.y:
+1. Holds the BNF grammar rules necessary for the compiler's operation.
+2. Parsing details are recorded in parser.txt, including various steps and statement types encountered.
+3. If a syntax error arises during parsing, a clear "Syntax Error" message is displayed in the terminal.
 
 
-Sample1.cu
-A. Contains code snippets with flawless syntax, ready for parsing and analysis.
+Sample1.cu:
+1. Contains code snippets with flawless syntax, ready for parsing and analysis.
 
 
-Sample2.cu
-A. Offers code segments intentionally crafted with incorrect syntax, serving as valuable test cases.
+Sample2.cu:
+1. Offers code segments intentionally crafted with incorrect syntax, serving as valuable test cases.
 
 
-Lexer.txt and Parser.txt
-A.Contains output
+Lexer.txt and Parser.txt:
+1.Contains output

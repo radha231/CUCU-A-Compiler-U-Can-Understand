@@ -1,0 +1,68 @@
+Datatype : int
+Varibale : gb 
+Value : 82 
+Assignment : =
+
+Datatype : int
+Varibale : factoring 
+Datatype : int
+Varibale : y 
+Datatype : char *
+Varibale : t 
+Datatype : int
+Varibale : u 
+Argument of the functions
+
+Varibale : y 
+Value : 7 
+Varibale : y 
+Varibale : y 
+Value : 1 
+Operator : + 
+Varibale : u 
+Value : 0 
+While Loop Ends 
+
+Varibale : u 
+Return stmts_list 
+
+Function has been declared above
+
+
+Datatype : int
+Varibale : main 
+Datatype : char *
+Varibale : d 
+Datatype : int
+Varibale : po 
+Varibale : factoring 
+Value : 9 
+Varibale : d 
+Value : 8 
+hi : + 
+Func_heading has been ended 
+
+Datatype : int
+Varibale : i 
+Varibale : i 
+Value : 2 
+Operator : >= 
+Varibale : po 
+Value : 1 
+Varibale : po 
+Value : 0 
+If Condition Ends 
+
+Datatype : int
+Varibale : y 
+Value : 8 
+Value : 9 
+Operator : * 
+Value : 3 
+Value : 4 
+Operator : * 
+Operator : + 
+Assignment : =
+Function has been declared above
+
+
